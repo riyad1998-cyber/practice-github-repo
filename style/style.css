@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    color: brown;
+    background-color: bisque;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-image: url(sylhet.jpg);
+   padding: 50px;
+   text-shadow: brown;
+   font-size: 20px;
+   background-size: cover;
+   background-position: center;
+   color: white;
+}
